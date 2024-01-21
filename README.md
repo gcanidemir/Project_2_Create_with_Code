@@ -2,14 +2,14 @@
 
 Simple Unity Game
 
-Controls
+Controls:
 
 A,D - Control player
 
 Spacebar - Throw Cookie
 
 
-Purpose
+Purpose:
 
 Feed the animals with cookie
 
