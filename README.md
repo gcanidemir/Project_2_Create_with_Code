@@ -2,15 +2,6 @@
 
 Simple Unity Game
 
-Controls:
+[To Access the Demo](https://youtu.be/3thyMnVTpyc?feature=shared)
 
-A,D - Control player
-
-Spacebar - Throw Cookie
-
-
-Purpose:
-
-Feed the animals with cookie
-
-[To Access the game](https://gcanidemir.github.io/Project_2_Create_with_Code/)
+[To Play the Game](https://gcanidemir.itch.io/project-2-create-with-code)
